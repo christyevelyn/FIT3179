@@ -1,0 +1,561 @@
+Metric,State,Value
+No selected chronic conditions,NSW,4296.8
+1,NSW,2176.6
+2,NSW,968.2
+3 or more,NSW,598.3
+Has 1 or more selected chronic conditions,NSW,3739.4
+Has 2 or more selected chronic conditions,NSW,1554.8
+"Total persons, all ages",NSW,8045.5
+Arthritis(c),NSW,1182.2
+Asthma,NSW,713.8
+Back problems (dorsopathies)(d),NSW,1119.8
+Cancer (malignant neoplasms),NSW,152.5
+Chronic obstructive pulmonary disease (COPD)(e),NSW,176.9
+Diabetes mellitus(f),NSW,410.2
+Hayfever and allergic rhinitis,NSW,1655.0
+"Heart, stroke and vascular disease(g)",NSW,389.6
+Hypertension(h),NSW,888.4
+Kidney disease,NSW,63.0
+Mental and behavioural conditions(i)(j),NSW,1784.3
+Osteoporosis(k),NSW,303.5
+"Total persons, all ages",NSW,8045.5
+"Total persons, all ages",NSW,8045.5
+Excellent,NSW,1385.3
+Very good,NSW,2244.8
+Excellent / Very good,NSW,3621.0
+Good,NSW,1923.8
+Fair,NSW,742.7
+Poor,NSW,253.6
+Fair / Poor,NSW,1003.1
+"Total persons, 15 years and over",NSW,6547.9
+Did not exceed lifetime risk guidelines,NSW,5414.1
+Exceeded lifetime risk guidelines(l),NSW,768.5
+Did not exceed single occasion risk guidelines,NSW,4123.0
+Exceeded single occasion risk guidelines(m),NSW,2050.2
+"Total persons, 18 years and over(n)",NSW,6265.8
+Exceeded guideline(o),NSW,1576.4
+Consumed more than 10 drinks in the last week,NSW,1083.5
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,NSW,1200.3
+"Total persons, 18 years and over",NSW,6265.8
+Underweight (less than 18.50),NSW,126.5
+Normal range (18.50–19.99),NSW,237.5
+Normal range (20.00–24.99),NSW,1897.0
+Total Normal range (18.50–24.99),NSW,2116.4
+Overweight (25.00–29.99),NSW,2041.0
+Obesity class I (30.00–34.99),NSW,1064.4
+Obesity class II (35.00–39.99),NSW,529.2
+Obesity class III (40.00 or more),NSW,292.6
+Total Obese (30.00 or more),NSW,1885.7
+Total Overweight / Obese (25.00 or more),NSW,3915.5
+"Total persons, 18 years and over(q)(r)",NSW,6203.3
+Lowered risk,NSW,2087.1
+Increased risk(t),NSW,1262.7
+Substantially increased risk(u),NSW,2803.5
+"Total persons, 18 years and over(q)(r)",NSW,6203.3
+Daily consumption of fruit — Did not meet recommendation,NSW,3394.7
+Daily consumption of vegetables — Did not meet recommendation,NSW,5842.7
+Daily consumption of fruit and vegetables — Did not meet either recommendation,NSW,3269.3
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,NSW,5968.1
+"Total persons, 18 years and over(q)",NSW,6265.8
+High blood pressure (≥140 / 90 mmHg)(w),NSW,1474.1
+"Total persons, 18 years and over(q)(r)",NSW,6203.3
+High / Very high psychological distress(x),NSW,820.9
+Severe / Very severe bodily pain,NSW,430.3
+"Total persons, 18 years and over(y)",NSW,5916.0
+Never smoked,NSW,3707.4
+Current daily smoker,NSW,627.4
+Met guidelines,NSW,1497.5
+Did not meet guideline,NSW,4768.4
+Zero minutes of physical activity in last week(ab),NSW,926.7
+"Total persons, 18 years and over",NSW,6265.8
+"Total persons, 18 years and over",NSW,6265.8
+No selected chronic conditions,Vic.,3340.7
+1,Vic.,1797.9
+2,Vic.,836.6
+3 or more,Vic.,573.2
+Has 1 or more selected chronic conditions,Vic.,3201.9
+Has 2 or more selected chronic conditions,Vic.,1412.6
+"Total persons, all ages",Vic.,6545.5
+Arthritis(c),Vic.,887.1
+Asthma,Vic.,845.3
+Back problems (dorsopathies)(d),Vic.,959.9
+Cancer (malignant neoplasms),Vic.,93.9
+Chronic obstructive pulmonary disease (COPD)(e),Vic.,137.7
+Diabetes mellitus(f),Vic.,330.5
+Hayfever and allergic rhinitis,Vic.,1952.9
+"Heart, stroke and vascular disease(g)",Vic.,313.8
+Hypertension(h),Vic.,785.5
+Kidney disease,Vic.,68.3
+Mental and behavioural conditions(i)(j),Vic.,1678.6
+Osteoporosis(k),Vic.,179.8
+"Total persons, all ages",Vic.,6545.5
+"Total persons, all ages",Vic.,6545.5
+Excellent,Vic.,1172.7
+Very good,Vic.,2070.0
+Excellent / Very good,Vic.,3263.4
+Good,Vic.,1410.0
+Fair,Vic.,504.9
+Poor,Vic.,174.0
+Fair / Poor,Vic.,679.0
+"Total persons, 15 years and over",Vic.,5361.9
+Did not exceed lifetime risk guidelines,Vic.,4484.5
+Exceeded lifetime risk guidelines(l),Vic.,558.2
+Did not exceed single occasion risk guidelines,Vic.,3259.0
+Exceeded single occasion risk guidelines(m),Vic.,1761.5
+"Total persons, 18 years and over(n)",Vic.,5140.5
+Exceeded guideline(o),Vic.,1249.0
+Consumed more than 10 drinks in the last week,Vic.,846.4
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,Vic.,919.1
+"Total persons, 18 years and over",Vic.,5140.5
+Underweight (less than 18.50),Vic.,65.8
+Normal range (18.50–19.99),Vic.,191.6
+Normal range (20.00–24.99),Vic.,1484.2
+Total Normal range (18.50–24.99),Vic.,1675.5
+Overweight (25.00–29.99),Vic.,1768.5
+Obesity class I (30.00–34.99),Vic.,934.4
+Obesity class II (35.00–39.99),Vic.,426.1
+Obesity class III (40.00 or more),Vic.,194.6
+Total Obese (30.00 or more),Vic.,1560.3
+Total Overweight / Obese (25.00 or more),Vic.,3339.8
+"Total persons, 18 years and over(q)(r)",Vic.,5117.3
+Lowered risk,Vic.,1635.8
+Increased risk(t),Vic.,1101.7
+Substantially increased risk(u),Vic.,2335.2
+"Total persons, 18 years and over(q)(r)",Vic.,5117.3
+Daily consumption of fruit — Did not meet recommendation,Vic.,2842.5
+Daily consumption of vegetables — Did not meet recommendation,Vic.,4809.8
+Daily consumption of fruit and vegetables — Did not meet either recommendation,Vic.,2721.7
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,Vic.,4930.4
+"Total persons, 18 years and over(q)",Vic.,5140.5
+High blood pressure (≥140 / 90 mmHg)(w),Vic.,1224.3
+"Total persons, 18 years and over(q)(r)",Vic.,5117.3
+High / Very high psychological distress(x),Vic.,687.7
+Severe / Very severe bodily pain,Vic.,295.9
+"Total persons, 18 years and over(y)",Vic.,4896.5
+Never smoked,Vic.,3071.6
+Current daily smoker,Vic.,475.6
+Met guidelines,Vic.,1247.6
+Did not meet guideline,Vic.,3870.6
+Zero minutes of physical activity in last week(ab),Vic.,638.0
+"Total persons, 18 years and over",Vic.,5140.5
+"Total persons, 18 years and over",Vic.,5140.5
+No selected chronic conditions,Qld,2399.5
+1,Qld,1564.9
+2,Qld,658.6
+3 or more,Qld,554.6
+Has 1 or more selected chronic conditions,Qld,2780.8
+Has 2 or more selected chronic conditions,Qld,1211.2
+"Total persons, all ages",Qld,5190.0
+Arthritis(c),Qld,705.3
+Asthma,Qld,591.7
+Back problems (dorsopathies)(d),Qld,890.1
+Cancer (malignant neoplasms),Qld,100.8
+Chronic obstructive pulmonary disease (COPD)(e),Qld,169.3
+Diabetes mellitus(f),Qld,265.7
+Hayfever and allergic rhinitis,Qld,941.1
+"Heart, stroke and vascular disease(g)",Qld,337.1
+Hypertension(h),Qld,577.9
+Kidney disease,Qld,58.4
+Mental and behavioural conditions(i)(j),Qld,1600.9
+Osteoporosis(k),Qld,179.7
+"Total persons, all ages",Qld,5190.0
+"Total persons, all ages",Qld,5190.0
+Excellent,Qld,729.9
+Very good,Qld,1552.2
+Excellent / Very good,Qld,2291.7
+Good,Qld,1191.7
+Fair,Qld,552.7
+Poor,Qld,166.7
+Fair / Poor,Qld,719.3
+"Total persons, 15 years and over",Qld,4195.2
+Did not exceed lifetime risk guidelines,Qld,3383.1
+Exceeded lifetime risk guidelines(l),Qld,596.5
+Did not exceed single occasion risk guidelines,Qld,2416.1
+Exceeded single occasion risk guidelines(m),Qld,1563.0
+"Total persons, 18 years and over(n)",Qld,4002.3
+Exceeded guideline(o),Qld,1175.2
+Consumed more than 10 drinks in the last week,Qld,802.7
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,Qld,914.8
+"Total persons, 18 years and over",Qld,4002.3
+Underweight (less than 18.50),Qld,65.9
+Normal range (18.50–19.99),Qld,138.0
+Normal range (20.00–24.99),Qld,980.8
+Total Normal range (18.50–24.99),Qld,1124.3
+Overweight (25.00–29.99),Qld,1355.2
+Obesity class I (30.00–34.99),Qld,847.1
+Obesity class II (35.00–39.99),Qld,280.9
+Obesity class III (40.00 or more),Qld,241.0
+Total Obese (30.00 or more),Qld,1373.6
+Total Overweight / Obese (25.00 or more),Qld,2736.1
+"Total persons, 18 years and over(q)(r)",Qld,3974.9
+Lowered risk,Qld,1135.0
+Increased risk(t),Qld,782.1
+Substantially increased risk(u),Qld,2013.4
+"Total persons, 18 years and over(q)(r)",Qld,3974.9
+Daily consumption of fruit — Did not meet recommendation,Qld,2284.7
+Daily consumption of vegetables — Did not meet recommendation,Qld,3799.7
+Daily consumption of fruit and vegetables — Did not meet either recommendation,Qld,2220.7
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,Qld,3861.1
+"Total persons, 18 years and over(q)",Qld,4002.3
+High blood pressure (≥140 / 90 mmHg)(w),Qld,796.9
+"Total persons, 18 years and over(q)(r)",Qld,3974.9
+High / Very high psychological distress(x),Qld,596.9
+Severe / Very severe bodily pain,Qld,331.9
+"Total persons, 18 years and over(y)",Qld,3800.5
+Never smoked,Qld,2215.6
+Current daily smoker,Qld,560.4
+Met guidelines,Qld,944.5
+Did not meet guideline,Qld,3058.2
+Zero minutes of physical activity in last week(ab),Qld,660.0
+"Total persons, 18 years and over",Qld,4002.3
+"Total persons, 18 years and over",Qld,4002.3
+No selected chronic conditions,SA,822.9
+1,SA,499.7
+2,SA,260.0
+3 or more,SA,193.5
+Has 1 or more selected chronic conditions,SA,952.3
+Has 2 or more selected chronic conditions,SA,454.3
+"Total persons, all ages",SA,1778.2
+Arthritis(c),SA,324.2
+Asthma,SA,210.4
+Back problems (dorsopathies)(d),SA,311.4
+Cancer (malignant neoplasms),SA,37.8
+Chronic obstructive pulmonary disease (COPD)(e),SA,47.3
+Diabetes mellitus(f),SA,128.4
+Hayfever and allergic rhinitis,SA,490.7
+"Heart, stroke and vascular disease(g)",SA,88.8
+Hypertension(h),SA,243.1
+Kidney disease,SA,16.7
+Mental and behavioural conditions(i)(j),SA,512.5
+Osteoporosis(k),SA,53.5
+"Total persons, all ages",SA,1778.2
+"Total persons, all ages",SA,1778.2
+Excellent,SA,273.6
+Very good,SA,512.6
+Excellent / Very good,SA,791.1
+Good,SA,419.2
+Fair,SA,203.4
+Poor,SA,57.2
+Fair / Poor,SA,259.0
+"Total persons, 15 years and over",SA,1468.1
+Did not exceed lifetime risk guidelines,SA,1173.3
+Exceeded lifetime risk guidelines(l),SA,213.5
+Did not exceed single occasion risk guidelines,SA,848.9
+Exceeded single occasion risk guidelines(m),SA,538.4
+"Total persons, 18 years and over(n)",SA,1407.2
+Exceeded guideline(o),SA,412.4
+Consumed more than 10 drinks in the last week,SA,312.7
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,SA,301.9
+"Total persons, 18 years and over",SA,1407.2
+Underweight (less than 18.50),SA,20.1
+Normal range (18.50–19.99),SA,46.7
+Normal range (20.00–24.99),SA,370.1
+Total Normal range (18.50–24.99),SA,423.2
+Overweight (25.00–29.99),SA,483.4
+Obesity class I (30.00–34.99),SA,285.5
+Obesity class II (35.00–39.99),SA,124.8
+Obesity class III (40.00 or more),SA,54.3
+Total Obese (30.00 or more),SA,467.1
+Total Overweight / Obese (25.00 or more),SA,953.4
+"Total persons, 18 years and over(q)(r)",SA,1401.8
+Lowered risk,SA,413.7
+Increased risk(t),SA,268.5
+Substantially increased risk(u),SA,708.0
+"Total persons, 18 years and over(q)(r)",SA,1401.8
+Daily consumption of fruit — Did not meet recommendation,SA,821.1
+Daily consumption of vegetables — Did not meet recommendation,SA,1297.6
+Daily consumption of fruit and vegetables — Did not meet either recommendation,SA,767.2
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,SA,1348.2
+"Total persons, 18 years and over(q)",SA,1407.2
+High blood pressure (≥140 / 90 mmHg)(w),SA,376.5
+"Total persons, 18 years and over(q)(r)",SA,1401.8
+High / Very high psychological distress(x),SA,235.1
+Severe / Very severe bodily pain,SA,130.6
+"Total persons, 18 years and over(y)",SA,1386.2
+Never smoked,SA,804.2
+Current daily smoker,SA,136.1
+Met guidelines,SA,336.3
+Did not meet guideline,SA,1070.9
+Zero minutes of physical activity in last week(ab),SA,222.4
+"Total persons, 18 years and over",SA,1407.2
+"Total persons, 18 years and over",SA,1407.2
+No selected chronic conditions,WA,1327.4
+1,WA,738.6
+2,WA,392.6
+3 or more,WA,235.6
+Has 1 or more selected chronic conditions,WA,1365.5
+Has 2 or more selected chronic conditions,WA,628.1
+"Total persons, all ages",WA,2690.6
+Arthritis(c),WA,385.7
+Asthma,WA,262.2
+Back problems (dorsopathies)(d),WA,473.9
+Cancer (malignant neoplasms),WA,57.0
+Chronic obstructive pulmonary disease (COPD)(e),WA,70.6
+Diabetes mellitus(f),WA,140.4
+Hayfever and allergic rhinitis,WA,727.4
+"Heart, stroke and vascular disease(g)",WA,133.3
+Hypertension(h),WA,303.9
+Kidney disease,WA,29.3
+Mental and behavioural conditions(i)(j),WA,727.8
+Osteoporosis(k),WA,79.4
+"Total persons, all ages",WA,2690.6
+"Total persons, all ages",WA,2690.6
+Excellent,WA,431.8
+Very good,WA,778.3
+Excellent / Very good,WA,1204.1
+Good,WA,681.9
+Fair,WA,209.2
+Poor,WA,77.0
+Fair / Poor,WA,290.9
+"Total persons, 15 years and over",WA,2173.4
+Did not exceed lifetime risk guidelines,WA,1719.2
+Exceeded lifetime risk guidelines(l),WA,332.3
+Did not exceed single occasion risk guidelines,WA,1267.0
+Exceeded single occasion risk guidelines(m),WA,783.3
+"Total persons, 18 years and over(n)",WA,2078.0
+Exceeded guideline(o),WA,622.4
+Consumed more than 10 drinks in the last week,WA,429.4
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,WA,507.9
+"Total persons, 18 years and over",WA,2078.0
+Underweight (less than 18.50),WA,35.8
+Normal range (18.50–19.99),WA,59.6
+Normal range (20.00–24.99),WA,548.5
+Total Normal range (18.50–24.99),WA,615.2
+Overweight (25.00–29.99),WA,752.5
+Obesity class I (30.00–34.99),WA,416.3
+Obesity class II (35.00–39.99),WA,150.4
+Obesity class III (40.00 or more),WA,86.4
+Total Obese (30.00 or more),WA,650.8
+Total Overweight / Obese (25.00 or more),WA,1405.7
+"Total persons, 18 years and over(q)(r)",WA,2067.9
+Lowered risk,WA,582.6
+Increased risk(t),WA,483.7
+Substantially increased risk(u),WA,978.0
+"Total persons, 18 years and over(q)(r)",WA,2067.9
+Daily consumption of fruit — Did not meet recommendation,WA,1168.4
+Daily consumption of vegetables — Did not meet recommendation,WA,1918.7
+Daily consumption of fruit and vegetables — Did not meet either recommendation,WA,1106.5
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,WA,1978.1
+"Total persons, 18 years and over(q)",WA,2078.0
+High blood pressure (≥140 / 90 mmHg)(w),WA,501.4
+"Total persons, 18 years and over(q)(r)",WA,2067.9
+High / Very high psychological distress(x),WA,238.9
+Severe / Very severe bodily pain,WA,146.4
+"Total persons, 18 years and over(y)",WA,2000.6
+Never smoked,WA,1203.1
+Current daily smoker,WA,218.5
+Met guidelines,WA,478.4
+Did not meet guideline,WA,1603.2
+Zero minutes of physical activity in last week(ab),WA,332.5
+"Total persons, 18 years and over",WA,2078.0
+"Total persons, 18 years and over",WA,2078.0
+No selected chronic conditions,Tas.,232.1
+1,Tas.,166.1
+2,Tas.,88.0
+3 or more,Tas.,71.7
+Has 1 or more selected chronic conditions,Tas.,326.4
+Has 2 or more selected chronic conditions,Tas.,159.8
+"Total persons, all ages",Tas.,559.1
+Arthritis(c),Tas.,114.6
+Asthma,Tas.,71.1
+Back problems (dorsopathies)(d),Tas.,116.2
+Cancer (malignant neoplasms),Tas.,13.2
+Chronic obstructive pulmonary disease (COPD)(e),Tas.,17.9
+Diabetes mellitus(f),Tas.,34.4
+Hayfever and allergic rhinitis,Tas.,145.7
+"Heart, stroke and vascular disease(g)",Tas.,45.4
+Hypertension(h),Tas.,90.4
+Kidney disease,Tas.,11.0
+Mental and behavioural conditions(i)(j),Tas.,164.9
+Osteoporosis(k),Tas.,23.0
+"Total persons, all ages",Tas.,559.1
+"Total persons, all ages",Tas.,559.1
+Excellent,Tas.,81.2
+Very good,Tas.,154.6
+Excellent / Very good,Tas.,234.9
+Good,Tas.,141.3
+Fair,Tas.,61.0
+Poor,Tas.,27.4
+Fair / Poor,Tas.,87.9
+"Total persons, 15 years and over",Tas.,464.7
+Did not exceed lifetime risk guidelines,Tas.,381.2
+Exceeded lifetime risk guidelines(l),Tas.,60.8
+Did not exceed single occasion risk guidelines,Tas.,265.0
+Exceeded single occasion risk guidelines(m),Tas.,176.8
+"Total persons, 18 years and over(n)",Tas.,444.6
+Exceeded guideline(o),Tas.,128.5
+Consumed more than 10 drinks in the last week,Tas.,92.9
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,Tas.,96.4
+"Total persons, 18 years and over",Tas.,444.6
+Underweight (less than 18.50),Tas.,8.6
+Normal range (18.50–19.99),Tas.,8.1
+Normal range (20.00–24.99),Tas.,111.0
+Total Normal range (18.50–24.99),Tas.,116.9
+Overweight (25.00–29.99),Tas.,148.4
+Obesity class I (30.00–34.99),Tas.,94.8
+Obesity class II (35.00–39.99),Tas.,47.2
+Obesity class III (40.00 or more),Tas.,23.1
+Total Obese (30.00 or more),Tas.,163.9
+Total Overweight / Obese (25.00 or more),Tas.,312.0
+"Total persons, 18 years and over(q)(r)",Tas.,442.5
+Lowered risk,Tas.,113.5
+Increased risk(t),Tas.,103.1
+Substantially increased risk(u),Tas.,223.3
+"Total persons, 18 years and over(q)(r)",Tas.,442.5
+Daily consumption of fruit — Did not meet recommendation,Tas.,260.9
+Daily consumption of vegetables — Did not meet recommendation,Tas.,396.1
+Daily consumption of fruit and vegetables — Did not meet either recommendation,Tas.,245.7
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,Tas.,412.3
+"Total persons, 18 years and over(q)",Tas.,444.6
+High blood pressure (≥140 / 90 mmHg)(w),Tas.,129.2
+"Total persons, 18 years and over(q)(r)",Tas.,442.5
+High / Very high psychological distress(x),Tas.,69.7
+Severe / Very severe bodily pain,Tas.,40.0
+"Total persons, 18 years and over(y)",Tas.,434.0
+Never smoked,Tas.,240.8
+Current daily smoker,Tas.,55.3
+Met guidelines,Tas.,99.3
+Did not meet guideline,Tas.,345.9
+Zero minutes of physical activity in last week(ab),Tas.,78.5
+"Total persons, 18 years and over",Tas.,444.6
+"Total persons, 18 years and over",Tas.,444.6
+No selected chronic conditions,NT,99.9
+1,NT,51.9
+2,NT,15.3
+3 or more,NT,13.7
+Has 1 or more selected chronic conditions,NT,82.1
+Has 2 or more selected chronic conditions,NT,29.5
+"Total persons, all ages",NT,181.5
+Arthritis(c),NT,20.4
+Asthma,NT,14.2
+Back problems (dorsopathies)(d),NT,27.7
+Cancer (malignant neoplasms),NT,2.9
+Chronic obstructive pulmonary disease (COPD)(e),NT,2.0
+Diabetes mellitus(f),NT,10.3
+Hayfever and allergic rhinitis,NT,24.4
+"Heart, stroke and vascular disease(g)",NT,8.0
+Hypertension(h),NT,18.6
+Kidney disease,NT,3.0
+Mental and behavioural conditions(i)(j),NT,39.2
+Osteoporosis(k),NT,2.8
+"Total persons, all ages",NT,181.5
+"Total persons, all ages",NT,181.5
+Excellent,NT,32.8
+Very good,NT,48.5
+Excellent / Very good,NT,82.1
+Good,NT,45.4
+Fair,NT,13.3
+Poor,NT,3.8
+Fair / Poor,NT,16.7
+"Total persons, 15 years and over",NT,144.3
+Did not exceed lifetime risk guidelines,NT,115.7
+Exceeded lifetime risk guidelines(l),NT,21.3
+Did not exceed single occasion risk guidelines,NT,85.8
+Exceeded single occasion risk guidelines(m),NT,50.7
+"Total persons, 18 years and over(n)",NT,137.3
+Exceeded guideline(o),NT,42.8
+Consumed more than 10 drinks in the last week,NT,27.5
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,NT,31.9
+"Total persons, 18 years and over",NT,137.3
+Underweight (less than 18.50),NT,1.8
+Normal range (18.50–19.99),NT,5.2
+Normal range (20.00–24.99),NT,41.2
+Total Normal range (18.50–24.99),NT,46.4
+Overweight (25.00–29.99),NT,40.3
+Obesity class I (30.00–34.99),NT,27.9
+Obesity class II (35.00–39.99),NT,10.3
+Obesity class III (40.00 or more),NT,7.2
+Total Obese (30.00 or more),NT,46.8
+Total Overweight / Obese (25.00 or more),NT,86.9
+"Total persons, 18 years and over(q)(r)",NT,136.3
+Lowered risk,NT,42.4
+Increased risk(t),NT,31.1
+Substantially increased risk(u),NT,62.9
+"Total persons, 18 years and over(q)(r)",NT,136.3
+Daily consumption of fruit — Did not meet recommendation,NT,82.3
+Daily consumption of vegetables — Did not meet recommendation,NT,129.0
+Daily consumption of fruit and vegetables — Did not meet either recommendation,NT,78.5
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,NT,134.1
+"Total persons, 18 years and over(q)",NT,137.3
+High blood pressure (≥140 / 90 mmHg)(w),NT,26.7
+"Total persons, 18 years and over(q)(r)",NT,136.3
+High / Very high psychological distress(x),NT,17.6
+Severe / Very severe bodily pain,NT,8.8
+"Total persons, 18 years and over(y)",NT,125.5
+Never smoked,NT,76.4
+Current daily smoker,NT,18.6
+Met guidelines,NT,33.8
+Did not meet guideline,NT,103.5
+Zero minutes of physical activity in last week(ab),NT,20.6
+"Total persons, 18 years and over",NT,137.3
+"Total persons, 18 years and over",NT,137.3
+No selected chronic conditions,ACT,212.1
+1,ACT,136.2
+2,ACT,60.8
+3 or more,ACT,35.3
+Has 1 or more selected chronic conditions,ACT,233.5
+Has 2 or more selected chronic conditions,ACT,96.3
+"Total persons, all ages",ACT,446.3
+Arthritis(c),ACT,62.0
+Asthma,ACT,51.5
+Back problems (dorsopathies)(d),ACT,74.7
+Cancer (malignant neoplasms),ACT,4.5
+Chronic obstructive pulmonary disease (COPD)(e),ACT,11.1
+Diabetes mellitus(f),ACT,15.3
+Hayfever and allergic rhinitis,ACT,153.1
+"Heart, stroke and vascular disease(g)",ACT,15.3
+Hypertension(h),ACT,54.1
+Kidney disease,ACT,5.6
+Mental and behavioural conditions(i)(j),ACT,125.6
+Osteoporosis(k),ACT,17.7
+"Total persons, all ages",ACT,446.3
+"Total persons, all ages",ACT,446.3
+Excellent,ACT,68.7
+Very good,ACT,153.4
+Excellent / Very good,ACT,221.6
+Good,ACT,96.8
+Fair,ACT,31.9
+Poor,ACT,11.6
+Fair / Poor,ACT,44.0
+"Total persons, 15 years and over",ACT,361.7
+Did not exceed lifetime risk guidelines,ACT,304.8
+Exceeded lifetime risk guidelines(l),ACT,40.2
+Did not exceed single occasion risk guidelines,ACT,220.9
+Exceeded single occasion risk guidelines(m),ACT,124.6
+"Total persons, 18 years and over(n)",ACT,347.0
+Exceeded guideline(o),ACT,95.0
+Consumed more than 10 drinks in the last week,ACT,63.3
+Consumed 5 or more drinks on any day at least monthly in the last 12 months,ACT,71.7
+"Total persons, 18 years and over",ACT,347.0
+Underweight (less than 18.50),ACT,5.9
+Normal range (18.50–19.99),ACT,12.9
+Normal range (20.00–24.99),ACT,103.6
+Total Normal range (18.50–24.99),ACT,117.3
+Overweight (25.00–29.99),ACT,118.1
+Obesity class I (30.00–34.99),ACT,65.9
+Obesity class II (35.00–39.99),ACT,24.3
+Obesity class III (40.00 or more),ACT,13.7
+Total Obese (30.00 or more),ACT,103.1
+Total Overweight / Obese (25.00 or more),ACT,222.1
+"Total persons, 18 years and over(q)(r)",ACT,347.2
+Lowered risk,ACT,119.2
+Increased risk(t),ACT,77.1
+Substantially increased risk(u),ACT,145.9
+"Total persons, 18 years and over(q)(r)",ACT,347.2
+Daily consumption of fruit — Did not meet recommendation,ACT,203.5
+Daily consumption of vegetables — Did not meet recommendation,ACT,320.4
+Daily consumption of fruit and vegetables — Did not meet either recommendation,ACT,192.9
+Daily consumption of fruit and vegetables — Did not meet at least 1 recommendation,ACT,332.5
+"Total persons, 18 years and over(q)",ACT,347.0
+High blood pressure (≥140 / 90 mmHg)(w),ACT,78.4
+"Total persons, 18 years and over(q)(r)",ACT,347.2
+High / Very high psychological distress(x),ACT,46.3
+Severe / Very severe bodily pain,ACT,19.1
+"Total persons, 18 years and over(y)",ACT,337.7
+Never smoked,ACT,234.6
+Current daily smoker,ACT,20.6
+Met guidelines,ACT,72.0
+Did not meet guideline,ACT,275.2
+Zero minutes of physical activity in last week(ab),ACT,56.0
+"Total persons, 18 years and over",ACT,347.0
+"Total persons, 18 years and over",ACT,347.0
