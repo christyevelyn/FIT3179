@@ -1,0 +1,41 @@
+State,Year,Cases ('000)
+New South Wales,2007-2008,307.8
+New South Wales,2011-2012,346.7
+New South Wales,2014-2015,412
+New South Wales,2017-2018,390.7
+New South Wales,2022,410.2
+Victoria,2007-2008,208.9
+Victoria,2011-2012,228.9
+Victoria,2014-2015,300.4
+Victoria,2017-2018,311
+Victoria,2022,330.5
+Queensland,2007-2008,178
+Queensland,2011-2012,185.1
+Queensland,2014-2015,212.2
+Queensland,2017-2018,217.3
+Queensland,2022,265.7
+South Australia,2007-2008,79.8
+South Australia,2011-2012,81.8
+South Australia,2014-2015,91
+South Australia,2017-2018,101.1
+South Australia,2022,128.4
+Western Australia,2007-2008,77.7
+Western Australia,2011-2012,98.9
+Western Australia,2014-2015,117.8
+Western Australia,2017-2018,103.7
+Western Australia,2022,140.4
+Tasmania,2007-2008,19.3
+Tasmania,2011-2012,25.6
+Tasmania,2014-2015,26.6
+Tasmania,2017-2018,28.4
+Tasmania,2022,34.4
+Northern Territory,2007-2008,17.4
+Northern Territory,2011-2012,8.9
+Northern Territory,2014-2015,7.6
+Northern Territory,2017-2018,9.8
+Northern Territory,2022,10.3
+Australian Capital Territory,2007-2008,9.9
+Australian Capital Territory,2011-2012,13.8
+Australian Capital Territory,2014-2015,16.2
+Australian Capital Territory,2017-2018,16.2
+Australian Capital Territory,2022,15.3
