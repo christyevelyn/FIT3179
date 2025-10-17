@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": 400,
+  "height": 300,
+  "title": "Diabetes Cases by State Over the Years",
+  "data": {
+    "url": "https://raw.githubusercontent.com/christyevelyn/FIT3179/2c245b145e7b2b7536b791abac0c78aae7916b12/NHSDC.csv"
+  },
+  "transform": [
+    {"calculate": "replace(datum.Year, '–')", "as": "YearNorm"},
+    {
+      "calculate": "toNumber(substring(datum.YearNorm, 0, 4))",
+      "as": "YearStart"
+    }
+  ],
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "field": "YearStart",
+      "type": "quantitative",
+      "scale": {"domain": [2007, 2022], "nice": false},
+      "title": "Year",
+      "axis": {
+        "values": [2007, 2011, 2014, 2017, 2022],
+        "labelExpr": "datum.value==2007 ? '2007–08' : datum.value==2011 ? '2011–12' : datum.value==2014 ? '2014–15' : datum.value==2017 ? '2017–18' : '2022'"
+      }
+    },
+    "y": {
+      "field": "Cases (\\'000)",
+      "type": "quantitative",
+      "scale": {"domain": [0, 450]},
+      "stack": null,
+      "title": "Estimated cases ('000)"
+    },
+    "color": {"field": "State", "type": "nominal"},
+    "opacity": {"value": 0.8}
+  },
+  "config": {"view": {"stroke": "transparent"}}
+}
