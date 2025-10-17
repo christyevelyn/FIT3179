@@ -1,12 +1,8 @@
 State,Year,Cases ('000)
-New South Wales,2007,307.8
-New South Wales,2008,307.8
-New South Wales,2011,346.7
-New South Wales,2012,346.7
-New South Wales,2014,412
-New South Wales,2015,412
-New South Wales,2017,390.7
-New South Wales,2018,390.7
+New South Wales,2007-2008,307.8
+New South Wales,2011-2012,346.7
+New South Wales,2014-2015,412
+New South Wales,2017-2018,390.7
 New South Wales,2022,410.2
 Victoria,2007-2008,208.9
 Victoria,2011-2012,228.9
